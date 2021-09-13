@@ -1,0 +1,133 @@
+{
+  "anime_show":[
+    {
+      "id": 0,
+      "show_name": "Naruto",
+      "franchise": "Naruto",
+      "us_rating": "TV-PG",
+      "status": "Ended",
+      "original-air-date": "2002-10-03",
+      "last_air_date": "2007-02-08",
+      "network": "TV Tokyo",
+      "number_of_episodes": "220",
+      "episode_length": "24",
+      "number_of_seasons": "4",
+      "main_characters": [
+        {
+          "first_name": "Naruto",
+          "last_name": "Uzamaki",
+          "gender": "M",
+          "debut": "1",
+          "vital_status": "living"
+        },
+        {
+          "first_name": "Sausuke",
+          "last_name": "Uchiha",
+          "gender": "M",
+          "debut": "1",
+          "vital_status": "living"
+        },
+        {
+          "first_name": "Sakura",
+          "last_name": "Haruno",
+          "gender": "F",
+          "debut": "1",
+          "vital_status": "living"
+        },
+        {
+          "first_name": "Orochimaru",
+          "last_name": null,
+          "gender": "U",
+          "debut": "27",
+          "vital_status": "living"
+        },
+        {
+          "first_name": "Jiraiya",
+          "last_name": null,
+          "gender": "M",
+          "debut": "52",
+          "vital_status": "deceased"
+        },
+        {
+          "first_name": "Tsunade",
+          "last_name": null,
+          "gender": "F",
+          "debut": "83",
+          "vital_status": "living"
+        },
+        {
+          "first_name": "Kakashi",
+          "last_name": "Hatake",
+          "gender": "M",
+          "debut": "3",
+          "vital_status": "living"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "show_name": "Demon Slayer",
+      "franchise": "Demon Slayer",
+      "us_rating": null,
+      "status": "Running",
+      "original-air-date": "2019-04-06",
+      "last_air_date": "2019-09-28",
+      "network": "Gunma TV",
+      "number_of_episodes": "24",
+      "episode_length": "24",
+      "number_of_seasons": "2",
+      "main_characters": [
+        {
+          "first_name": "Tanjirou",
+          "last_name": "Kamado",
+          "gender": "M",
+          "debut": "1",
+          "vital_status": "living"
+        },
+        {
+          "first_name": "Nezuko",
+          "last_name": "Kamado",
+          "gender": "F",
+          "debut": "1",
+          "vital_status": "undead"
+        },
+        {
+          "first_name": "Muzan",
+          "last_name": "Kibutsuji",
+          "gender": "M",
+          "debut": "7",
+          "vital_status": "undead"
+        },
+        {
+          "first_name": "Zenitsu",
+          "last_name": "Agatsuma",
+          "gender": "M",
+          "debut": "5",
+          "vital_status": "living"
+        },
+        {
+          "first_name": "Inosuke",
+          "last_name": "Hashibira",
+          "gender": "M",
+          "debut": "7",
+          "vital_status": "living"
+        },
+        {
+          "first_name": "Giyu",
+          "last_name": "Tomioka",
+          "gender": "M",
+          "debut": "1",
+          "vital_status": "living"
+        },
+        {
+          "first_name": "Kyojuro",
+          "last_name": "Rengoku",
+          "gender": "M",
+          "debut": "12",
+          "vital_status": "deceased"
+        }
+      ]
+
+    }
+  ]
+}
