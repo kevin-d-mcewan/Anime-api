@@ -1,0 +1,23 @@
+{
+  "name": "anime-api",
+  "version": "1.0.0",
+  "description": "anime show api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-d-mcewan/Anime-api.git"
+  },
+  "author": "Kevin McEwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-d-mcewan/Anime-api/issues"
+  },
+  "homepage": "https://github.com/kevin-d-mcewan/Anime-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
